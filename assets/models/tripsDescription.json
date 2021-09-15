@@ -1,0 +1,2042 @@
+[
+  {
+    "order": {
+      "order_id": "612e1dcf7bda21dbd34283d1",
+      "dateOrder": "2021-08-31 15:17",
+      "creatorId": "5c52013db0cdaf34c82482ef",
+      "creatorName": "Богданов Павел Иванович",
+      "creatorPhone": "+380972576047",
+      "creatorNameAbbr": "БП",
+      "carId": "5c1cad79eb52494f831dac42",
+      "carName": "Skoda Fabia AE 9999 KA",
+      "costOrder": "3.95",
+      "carDisplayName": "Skoda Fabia",
+      "carNumber": "AE 9999 KA",
+      "carPcture": "/images/models/1599486029982.png",
+      "book": {
+        "free": 5,
+        "pay": 0
+      },
+      "driveMinutes": 237,
+      "parking": 0,
+      "mileage": "0.00",
+      "overunMileage": "0.00",
+      "transfer": 0,
+      "timeOrder": 262,
+      "heating": 0,
+      "fueling": 0,
+      "preview": 20,
+      "selfie": 0,
+      "acceptancecarbodyisdamaged": false,
+      "acceptancetireisflat": false,
+      "acceptancebrokenwindow": false,
+      "acceptancecarisdirty": false,
+      "acceptancecomment": "",
+      "costFromCard": "--,--",
+      "costFromBonuses": "--,--",
+      "insurance": "0.00",
+      "insuranceInRate": false,
+      "paidCompletionZone": "0.00",
+      "rateId": "5f85b14cb668f17915789c96"
+    },
+    "event": [
+      {
+        "date": "2021-08-31 15:17:19",
+        "event": "Машина забронирована",
+        "eventType": 1,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 5с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 5с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 5,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4441333,
+            "lon": 35.002075
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      },
+      {
+        "date": "2021-08-31 15:17:24",
+        "event": "Начат осмотр",
+        "eventType": 5,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 20с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 20с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 20,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4441333,
+            "lon": 35.002075
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      },
+      {
+        "date": "2021-08-31 15:17:40",
+        "event": "Начало использования",
+        "eventType": 3,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 3м. 57с. (0.00 км.)",
+        "price": "1",
+        "cost": 3.95,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 5,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "3.95",
+        "durationTrip": "0ч. 3м. 57с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 237,
+          "price": 1
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4441333,
+            "lon": 35.002075
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      },
+      {
+        "date": "2021-08-31 15:21:37",
+        "event": "Заказ завершен",
+        "eventType": 4,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 0с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 0с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 0,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4441333,
+            "lon": 35.002075
+          },
+          "car": {
+            "lat": 48.44892,
+            "lon": 35.001778
+          }
+        }
+      }
+    ],
+    "paymentsOther": [],
+    "photo": [],
+    "status": true,
+    "coordinats": []
+  },
+  {
+    "order": {
+      "order_id": "612e16ec7bda21dbd342817f",
+      "dateOrder": "2021-08-31 14:47",
+      "creatorId": "5c52013db0cdaf34c82482ef",
+      "creatorName": "Богданов Павел Иванович",
+      "creatorPhone": "+380972576047",
+      "creatorNameAbbr": "БП",
+      "carId": "5c1cad79eb52494f831dac42",
+      "carName": "Skoda Fabia AE 9999 KA",
+      "costOrder": "125.78",
+      "carDisplayName": "Skoda Fabia",
+      "carNumber": "AE 9999 KA",
+      "carPcture": "/images/models/1599486029982.png",
+      "book": {
+        "free": 5,
+        "pay": 0
+      },
+      "driveMinutes": 47,
+      "parking": 0,
+      "mileage": "10.00",
+      "overunMileage": "10.00",
+      "transfer": 0,
+      "timeOrder": 62,
+      "heating": 0,
+      "fueling": 0,
+      "preview": 10,
+      "selfie": 0,
+      "acceptancecarbodyisdamaged": false,
+      "acceptancetireisflat": false,
+      "acceptancebrokenwindow": false,
+      "acceptancecarisdirty": false,
+      "acceptancecomment": "",
+      "costFromCard": "--,--",
+      "costFromBonuses": "--,--",
+      "insurance": "0.00",
+      "insuranceInRate": false,
+      "paidCompletionZone": "75.00",
+      "rateId": "5f85b14cb668f17915789c96"
+    },
+    "event": [
+      {
+        "date": "2021-08-31 14:47:56",
+        "event": "Машина забронирована",
+        "eventType": 1,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 5с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 5с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 5,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4441333,
+            "lon": 35.002075
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.017675
+          }
+        }
+      },
+      {
+        "date": "2021-08-31 14:48:01",
+        "event": "Начат осмотр",
+        "eventType": 5,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 10с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 10с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 10,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4441333,
+            "lon": 35.002075
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.017675
+          }
+        }
+      },
+      {
+        "date": "2021-08-31 14:48:07",
+        "event": "Начало использования",
+        "eventType": 3,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 47с. (10.00 км.)",
+        "price": "1",
+        "cost": 50.78,
+        "comment": "",
+        "run": "10.00",
+        "overRun": "10.00",
+        "overRunCost": 5,
+        "totalOverRunCost": "50.00",
+        "totalTimeCost": "0.78",
+        "durationTrip": "0ч. 0м. 47с.",
+        "strOverRun": "10*5",
+        "strTimeRun": {
+          "time": 47,
+          "price": 1
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4441333,
+            "lon": 35.002075
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.017675
+          }
+        }
+      },
+      {
+        "date": "2021-08-31 14:48:54",
+        "event": "Заказ завершен",
+        "eventType": 4,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 0с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 0с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 0,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4441333,
+            "lon": 35.002075
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      }
+    ],
+    "paymentsOther": [],
+    "photo": [],
+    "status": true,
+    "coordinats": []
+  },
+  {
+    "order": {
+      "order_id": "612e00f27bda21dbd34279b6",
+      "dateOrder": "2021-08-31 13:14",
+      "creatorId": "5c52013db0cdaf34c82482ef",
+      "creatorName": "Богданов Павел Иванович",
+      "creatorPhone": "+380972576047",
+      "creatorNameAbbr": "БП",
+      "carId": "5c1cad79eb52494f831dac42",
+      "carName": "Skoda Fabia AE 9999 KA",
+      "costOrder": "93.02",
+      "carDisplayName": "Skoda Fabia",
+      "carNumber": "AE 9999 KA",
+      "carPcture": "/images/models/1599486029982.png",
+      "book": {
+        "free": 8,
+        "pay": 0
+      },
+      "driveMinutes": 5581,
+      "parking": 0,
+      "mileage": "0.00",
+      "overunMileage": "0.00",
+      "transfer": 0,
+      "timeOrder": 5599,
+      "heating": 0,
+      "fueling": 0,
+      "preview": 10,
+      "selfie": 0,
+      "acceptancecarbodyisdamaged": false,
+      "acceptancetireisflat": false,
+      "acceptancebrokenwindow": false,
+      "acceptancecarisdirty": false,
+      "acceptancecomment": "",
+      "costFromCard": "--,--",
+      "costFromBonuses": "--,--",
+      "insurance": "0.00",
+      "insuranceInRate": false,
+      "paidCompletionZone": "0.00",
+      "rateId": "5f85b14cb668f17915789c96"
+    },
+    "event": [
+      {
+        "date": "2021-08-31 13:14:10",
+        "event": "Машина забронирована",
+        "eventType": 1,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 8с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 8с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 8,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4441333,
+            "lon": 35.002075
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      },
+      {
+        "date": "2021-08-31 13:14:18",
+        "event": "Начат осмотр",
+        "eventType": 5,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 10с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 10с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 10,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4441333,
+            "lon": 35.002075
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      },
+      {
+        "date": "2021-08-31 13:14:25",
+        "event": "Начало использования",
+        "eventType": 3,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "1ч. 33м. 1с. (0.00 км.)",
+        "price": "1",
+        "cost": 93.02,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 5,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "93.02",
+        "durationTrip": "1ч. 33м. 1с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 5581,
+          "price": 1
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4441333,
+            "lon": 35.002075
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      },
+      {
+        "date": "2021-08-31 14:47:26",
+        "event": "Заказ завершен",
+        "eventType": 4,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 0с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 0с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 0,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4441333,
+            "lon": 35.002075
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.017675
+          }
+        }
+      }
+    ],
+    "paymentsOther": [],
+    "photo": [],
+    "status": true,
+    "coordinats": []
+  },
+  {
+    "order": {
+      "order_id": "612b7f4d7bda21dbd3421488",
+      "dateOrder": "2021-08-29 15:36",
+      "creatorId": "5c52013db0cdaf34c82482ef",
+      "creatorName": "Богданов Павел Иванович",
+      "creatorPhone": "+380972576047",
+      "creatorNameAbbr": "БП",
+      "carId": "5c1cad79eb52494f831dac42",
+      "carName": "Skoda Fabia AE 9999 KA",
+      "costOrder": "127.03",
+      "carDisplayName": "Skoda Fabia",
+      "carNumber": "AE 9999 KA",
+      "carPcture": "/images/models/1599486029982.png",
+      "book": {
+        "free": 6,
+        "pay": 0
+      },
+      "driveMinutes": 122,
+      "parking": 0,
+      "mileage": "10.00",
+      "overunMileage": "10.00",
+      "transfer": 0,
+      "timeOrder": 153,
+      "heating": 0,
+      "fueling": 0,
+      "preview": 25,
+      "selfie": 0,
+      "acceptancecarbodyisdamaged": false,
+      "acceptancetireisflat": false,
+      "acceptancebrokenwindow": false,
+      "acceptancecarisdirty": false,
+      "acceptancecomment": "",
+      "costFromCard": "--,--",
+      "costFromBonuses": "--,--",
+      "insurance": "0.00",
+      "insuranceInRate": false,
+      "paidCompletionZone": "75.00",
+      "rateId": "5f85b14cb668f17915789c96"
+    },
+    "event": [
+      {
+        "date": "2021-08-29 15:36:29",
+        "event": "Машина забронирована",
+        "eventType": 1,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 6с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 6с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 6,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4442472,
+            "lon": 35.0019472
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.017675
+          }
+        }
+      },
+      {
+        "date": "2021-08-29 15:36:35",
+        "event": "Начат осмотр",
+        "eventType": 5,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 25с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 25с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 25,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4442472,
+            "lon": 35.0019472
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.017675
+          }
+        }
+      },
+      {
+        "date": "2021-08-29 15:36:58",
+        "event": "Начало использования",
+        "eventType": 3,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 2м. 2с. (10.00 км.)",
+        "price": "1",
+        "cost": 52.03,
+        "comment": "",
+        "run": "10.00",
+        "overRun": "10.00",
+        "overRunCost": 5,
+        "totalOverRunCost": "50.00",
+        "totalTimeCost": "2.03",
+        "durationTrip": "0ч. 2м. 2с.",
+        "strOverRun": "10*5",
+        "strTimeRun": {
+          "time": 122,
+          "price": 1
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4442472,
+            "lon": 35.0019472
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.017675
+          }
+        }
+      },
+      {
+        "date": "2021-08-29 15:39:00",
+        "event": "Заказ завершен",
+        "eventType": 4,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 0с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 0с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 0,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4442492,
+            "lon": 35.0019448
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      }
+    ],
+    "paymentsOther": [],
+    "photo": [
+      {
+        "name": "/images/Rent/2021/08/29/11630240612573.jpg",
+        "time": "2021-08-29T12:36:52.582Z",
+        "type": "Начало аренды"
+      }
+    ],
+    "status": true,
+    "coordinats": []
+  },
+  {
+    "order": {
+      "order_id": "612b7ed67bda21dbd3421424",
+      "dateOrder": "2021-08-29 15:34",
+      "creatorId": "5c52013db0cdaf34c82482ef",
+      "creatorName": "Богданов Павел Иванович",
+      "creatorPhone": "+380972576047",
+      "creatorNameAbbr": "БП",
+      "carId": "5c1cad79eb52494f831dac42",
+      "carName": "Skoda Fabia AE 9999 KA",
+      "costOrder": "40.82",
+      "carDisplayName": "Skoda Fabia",
+      "carNumber": "AE 9999 KA",
+      "carPcture": "/images/models/1599486029982.png",
+      "book": {
+        "free": 5,
+        "pay": 0
+      },
+      "driveMinutes": 49,
+      "parking": 0,
+      "mileage": "10.00",
+      "overunMileage": "10.00",
+      "transfer": 0,
+      "timeOrder": 74,
+      "heating": 0,
+      "fueling": 0,
+      "preview": 20,
+      "selfie": 0,
+      "acceptancecarbodyisdamaged": false,
+      "acceptancetireisflat": false,
+      "acceptancebrokenwindow": false,
+      "acceptancecarisdirty": false,
+      "acceptancecomment": "",
+      "costFromCard": "--,--",
+      "costFromBonuses": "--,--",
+      "insurance": "0.00",
+      "insuranceInRate": false,
+      "paidCompletionZone": "-10.00",
+      "rateId": "5f85b14cb668f17915789c96"
+    },
+    "event": [
+      {
+        "date": "2021-08-29 15:34:30",
+        "event": "Машина забронирована",
+        "eventType": 1,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 5с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 5с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 5,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4442378,
+            "lon": 35.0019476
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      },
+      {
+        "date": "2021-08-29 15:34:35",
+        "event": "Начат осмотр",
+        "eventType": 5,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 20с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 20с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 20,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4442378,
+            "lon": 35.0019476
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      },
+      {
+        "date": "2021-08-29 15:34:51",
+        "event": "Начало использования",
+        "eventType": 3,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 49с. (10.00 км.)",
+        "price": "1",
+        "cost": 50.82,
+        "comment": "",
+        "run": "10.00",
+        "overRun": "10.00",
+        "overRunCost": 5,
+        "totalOverRunCost": "50.00",
+        "totalTimeCost": "0.82",
+        "durationTrip": "0ч. 0м. 49с.",
+        "strOverRun": "10*5",
+        "strTimeRun": {
+          "time": 49,
+          "price": 1
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4442378,
+            "lon": 35.0019476
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      },
+      {
+        "date": "2021-08-29 15:35:40",
+        "event": "Заказ завершен",
+        "eventType": 4,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 0с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 0с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 0,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4442354,
+            "lon": 35.001946
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.017675
+          }
+        }
+      }
+    ],
+    "paymentsOther": [],
+    "photo": [],
+    "status": true,
+    "coordinats": []
+  },
+  {
+    "order": {
+      "order_id": "612b74117bda21dbd3421314",
+      "dateOrder": "2021-08-29 14:48",
+      "creatorId": "5c52013db0cdaf34c82482ef",
+      "creatorName": "Богданов Павел Иванович",
+      "creatorPhone": "+380972576047",
+      "creatorNameAbbr": "БП",
+      "carId": "5c1cad79eb52494f831dac42",
+      "carName": "Skoda Fabia AE 9999 KA",
+      "costOrder": "140.13",
+      "carDisplayName": "Skoda Fabia",
+      "carNumber": "AE 9999 KA",
+      "carPcture": "/images/models/1599486029982.png",
+      "book": {
+        "free": 5,
+        "pay": 0
+      },
+      "driveMinutes": 908,
+      "parking": 0,
+      "mileage": "10.00",
+      "overunMileage": "10.00",
+      "transfer": 0,
+      "timeOrder": 923,
+      "heating": 0,
+      "fueling": 0,
+      "preview": 10,
+      "selfie": 0,
+      "acceptancecarbodyisdamaged": false,
+      "acceptancetireisflat": false,
+      "acceptancebrokenwindow": false,
+      "acceptancecarisdirty": false,
+      "acceptancecomment": "",
+      "costFromCard": "--,--",
+      "costFromBonuses": "--,--",
+      "insurance": "0.00",
+      "insuranceInRate": false,
+      "paidCompletionZone": "75.00",
+      "rateId": "5f85b14cb668f17915789c96"
+    },
+    "event": [
+      {
+        "date": "2021-08-29 14:48:33",
+        "event": "Машина забронирована",
+        "eventType": 1,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 5с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 5с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 5,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44409753816782,
+            "lon": 35.002191588292156
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.017675
+          }
+        }
+      },
+      {
+        "date": "2021-08-29 14:48:38",
+        "event": "Начат осмотр",
+        "eventType": 5,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 10с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 10с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 10,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44414933286555,
+            "lon": 35.002151426461
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.017675
+          }
+        }
+      },
+      {
+        "date": "2021-08-29 14:48:48",
+        "event": "Начало использования",
+        "eventType": 3,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 15м. 8с. (10.00 км.)",
+        "price": "1",
+        "cost": 65.13,
+        "comment": "",
+        "run": "10.00",
+        "overRun": "10.00",
+        "overRunCost": 5,
+        "totalOverRunCost": "50.00",
+        "totalTimeCost": "15.13",
+        "durationTrip": "0ч. 15м. 8с.",
+        "strOverRun": "10*5",
+        "strTimeRun": {
+          "time": 908,
+          "price": 1
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44413867834019,
+            "lon": 35.00220620445913
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.017675
+          }
+        }
+      },
+      {
+        "date": "2021-08-29 15:03:56",
+        "event": "Заказ завершен",
+        "eventType": 4,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 0с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 0с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 0,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44414432742595,
+            "lon": 35.002196403758255
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      }
+    ],
+    "paymentsOther": [],
+    "photo": [],
+    "status": true,
+    "coordinats": []
+  },
+  {
+    "order": {
+      "order_id": "611b82d30456cc7cd4c3122e",
+      "dateOrder": "2021-08-17 12:35",
+      "creatorId": "5c52013db0cdaf34c82482ef",
+      "creatorName": "Богданов Павел Иванович",
+      "creatorPhone": "+380972576047",
+      "creatorNameAbbr": "БП",
+      "carId": "5c1cad79eb52494f831dac42",
+      "carName": "Skoda Fabia AE 9999 KA",
+      "costOrder": "-13.67",
+      "carDisplayName": "Skoda Fabia",
+      "carNumber": "AE 9999 KA",
+      "carPcture": "/images/models/1599486029982.png",
+      "book": {
+        "free": 0,
+        "pay": 3
+      },
+      "driveMinutes": 80,
+      "parking": 0,
+      "mileage": "7.00",
+      "overunMileage": "7.00",
+      "transfer": 0,
+      "timeOrder": 98,
+      "heating": 0,
+      "fueling": 0,
+      "preview": 15,
+      "selfie": 0,
+      "acceptancecarbodyisdamaged": false,
+      "acceptancetireisflat": false,
+      "acceptancebrokenwindow": false,
+      "acceptancecarisdirty": false,
+      "acceptancecomment": "",
+      "costFromCard": "--,--",
+      "costFromBonuses": "--,--",
+      "insurance": "0.00",
+      "insuranceInRate": false,
+      "paidCompletionZone": "-50.00",
+      "rateId": "5f85b14cb668f17915789c96"
+    },
+    "event": [
+      {
+        "date": "2021-08-17 12:35:15",
+        "event": "Машина забронирована",
+        "eventType": 1,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 0с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 0с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 0,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": null,
+            "lon": null
+          },
+          "car": {
+            "lat": 48.44892,
+            "lon": 35.001475
+          }
+        }
+      },
+      {
+        "date": "2021-08-17 12:35:18",
+        "event": "Платное ожидание",
+        "eventType": 7,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 3с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 3с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 3,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44414536608611,
+            "lon": 35.00216940331746
+          },
+          "car": {
+            "lat": 48.44892,
+            "lon": 35.001475
+          }
+        }
+      },
+      {
+        "date": "2021-08-17 12:35:21",
+        "event": "Начат осмотр",
+        "eventType": 5,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 15с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 15с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 15,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44415755158884,
+            "lon": 35.00216107264404
+          },
+          "car": {
+            "lat": 48.44892,
+            "lon": 35.001475
+          }
+        }
+      },
+      {
+        "date": "2021-08-17 12:35:32",
+        "event": "Начало использования",
+        "eventType": 3,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 1м. 20с. (7.00 км.)",
+        "price": "1",
+        "cost": 36.33,
+        "comment": "",
+        "run": "7.00",
+        "overRun": "7.00",
+        "overRunCost": 5,
+        "totalOverRunCost": "35.00",
+        "totalTimeCost": "1.33",
+        "durationTrip": "0ч. 1м. 20с.",
+        "strOverRun": "7*5",
+        "strTimeRun": {
+          "time": 80,
+          "price": 1
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44416150588803,
+            "lon": 35.002158375152796
+          },
+          "car": {
+            "lat": 48.44892,
+            "lon": 35.001475
+          }
+        }
+      },
+      {
+        "date": "2021-08-17 12:36:52",
+        "event": "Заказ завершен",
+        "eventType": 4,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 0с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 0с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 0,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44415832001563,
+            "lon": 35.002160497242
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.01767
+          }
+        }
+      }
+    ],
+    "paymentsOther": [],
+    "photo": [],
+    "status": true,
+    "coordinats": []
+  },
+  {
+    "order": {
+      "order_id": "611b7e1e0456cc7cd4c3117f",
+      "dateOrder": "2021-08-17 12:15",
+      "creatorId": "5c52013db0cdaf34c82482ef",
+      "creatorName": "Богданов Павел Иванович",
+      "creatorPhone": "+380972576047",
+      "creatorNameAbbr": "БП",
+      "carId": "5c1cad79eb52494f831dac42",
+      "carName": "Skoda Fabia AE 9999 KA",
+      "costOrder": "10000.00",
+      "carDisplayName": "Skoda Fabia",
+      "carNumber": "AE 9999 KA",
+      "carPcture": "/images/models/1599486029982.png",
+      "book": {
+        "free": 5,
+        "pay": 0
+      },
+      "driveMinutes": 150,
+      "parking": 0,
+      "mileage": "10948.00",
+      "overunMileage": "10948.00",
+      "transfer": 0,
+      "timeOrder": 165,
+      "heating": 0,
+      "fueling": 0,
+      "preview": 10,
+      "selfie": 0,
+      "acceptancecarbodyisdamaged": false,
+      "acceptancetireisflat": false,
+      "acceptancebrokenwindow": false,
+      "acceptancecarisdirty": false,
+      "acceptancecomment": "",
+      "costFromCard": "--,--",
+      "costFromBonuses": "--,--",
+      "insurance": "0.00",
+      "insuranceInRate": false,
+      "paidCompletionZone": "0.00",
+      "rateId": "5f85b14cb668f17915789c96"
+    },
+    "event": [
+      {
+        "date": "2021-08-17 12:15:10",
+        "event": "Машина забронирована",
+        "eventType": 1,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 5с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 5с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 5,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44420576533396,
+            "lon": 35.0022220146451
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      },
+      {
+        "date": "2021-08-17 12:15:15",
+        "event": "Начат осмотр",
+        "eventType": 5,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 10с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 10с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 10,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44410768898744,
+            "lon": 35.00209736273347
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      },
+      {
+        "date": "2021-08-17 12:15:22",
+        "event": "Начало использования",
+        "eventType": 3,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 2м. 30с. (10948.00 км.)",
+        "price": "1",
+        "cost": 54742.5,
+        "comment": "",
+        "run": "10948.00",
+        "overRun": "10948.00",
+        "overRunCost": 5,
+        "totalOverRunCost": "54740.00",
+        "totalTimeCost": "2.50",
+        "durationTrip": "0ч. 2м. 30с.",
+        "strOverRun": "10948*5",
+        "strTimeRun": {
+          "time": 150,
+          "price": 1
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.4440890209513,
+            "lon": 35.00208751619157
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      },
+      {
+        "date": "2021-08-17 12:17:52",
+        "event": "Заказ завершен",
+        "eventType": 4,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 0с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 0с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 0,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44414658449668,
+            "lon": 35.00216852413506
+          },
+          "car": {
+            "lat": 48.44892,
+            "lon": 35.001475
+          }
+        }
+      }
+    ],
+    "paymentsOther": [],
+    "photo": [],
+    "status": true,
+    "coordinats": []
+  },
+  {
+    "order": {
+      "order_id": "611b755b0456cc7cd4c310e7",
+      "dateOrder": "2021-08-17 11:37",
+      "creatorId": "5c52013db0cdaf34c82482ef",
+      "creatorName": "Богданов Павел Иванович",
+      "creatorPhone": "+380972576047",
+      "creatorNameAbbr": "БП",
+      "carId": "5c1cad79eb52494f831dac42",
+      "carName": "Skoda Fabia AE 9999 KA",
+      "costOrder": "113.73",
+      "carDisplayName": "Skoda Fabia",
+      "carNumber": "AE 9999 KA",
+      "carPcture": "/images/models/1599486029982.png",
+      "book": {
+        "free": 7,
+        "pay": 0
+      },
+      "driveMinutes": 824,
+      "parking": 0,
+      "mileage": "5.00",
+      "overunMileage": "5.00",
+      "transfer": 0,
+      "timeOrder": 841,
+      "heating": 0,
+      "fueling": 0,
+      "preview": 10,
+      "selfie": 0,
+      "acceptancecarbodyisdamaged": false,
+      "acceptancetireisflat": false,
+      "acceptancebrokenwindow": false,
+      "acceptancecarisdirty": false,
+      "acceptancecomment": "",
+      "costFromCard": "--,--",
+      "costFromBonuses": "--,--",
+      "insurance": "0.00",
+      "insuranceInRate": false,
+      "paidCompletionZone": "75.00",
+      "rateId": "5f85b14cb668f17915789c96"
+    },
+    "event": [
+      {
+        "date": "2021-08-17 11:37:47",
+        "event": "Машина забронирована",
+        "eventType": 1,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 7с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 7с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 7,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44420140952865,
+            "lon": 35.00220522447661
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.017675
+          }
+        }
+      },
+      {
+        "date": "2021-08-17 11:37:54",
+        "event": "Начат осмотр",
+        "eventType": 5,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 10с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 10с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 10,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44420140952865,
+            "lon": 35.00220522447661
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.017675
+          }
+        }
+      },
+      {
+        "date": "2021-08-17 11:38:03",
+        "event": "Начало использования",
+        "eventType": 3,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 13м. 44с. (5.00 км.)",
+        "price": "1",
+        "cost": 38.73,
+        "comment": "",
+        "run": "5.00",
+        "overRun": "5.00",
+        "overRunCost": 5,
+        "totalOverRunCost": "25.00",
+        "totalTimeCost": "13.73",
+        "durationTrip": "0ч. 13м. 44с.",
+        "strOverRun": "5*5",
+        "strTimeRun": {
+          "time": 824,
+          "price": 1
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44418352621708,
+            "lon": 35.002196477977805
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.017675
+          }
+        }
+      },
+      {
+        "date": "2021-08-17 11:51:47",
+        "event": "Заказ завершен",
+        "eventType": 4,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 0с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 0с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 0,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44415790944788,
+            "lon": 35.00220218153093
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      }
+    ],
+    "paymentsOther": [],
+    "photo": [],
+    "status": true,
+    "coordinats": []
+  },
+  {
+    "order": {
+      "order_id": "611b74c10456cc7cd4c310cd",
+      "dateOrder": "2021-08-17 11:35",
+      "creatorId": "5c52013db0cdaf34c82482ef",
+      "creatorName": "Богданов Павел Иванович",
+      "creatorPhone": "+380972576047",
+      "creatorNameAbbr": "БП",
+      "carId": "5c1cad79eb52494f831dac42",
+      "carName": "Skoda Fabia AE 9999 KA",
+      "costOrder": "25.57",
+      "carDisplayName": "Skoda Fabia",
+      "carNumber": "AE 9999 KA",
+      "carPcture": "/images/models/1599486029982.png",
+      "book": {
+        "free": 5,
+        "pay": 0
+      },
+      "driveMinutes": 34,
+      "parking": 0,
+      "mileage": "5.00",
+      "overunMileage": "5.00",
+      "transfer": 0,
+      "timeOrder": 59,
+      "heating": 0,
+      "fueling": 0,
+      "preview": 20,
+      "selfie": 0,
+      "acceptancecarbodyisdamaged": false,
+      "acceptancetireisflat": false,
+      "acceptancebrokenwindow": false,
+      "acceptancecarisdirty": false,
+      "acceptancecomment": "",
+      "costFromCard": "--,--",
+      "costFromBonuses": "--,--",
+      "insurance": "0.00",
+      "insuranceInRate": false,
+      "paidCompletionZone": "0.00",
+      "rateId": "5f85b14cb668f17915789c96"
+    },
+    "event": [
+      {
+        "date": "2021-08-17 11:35:14",
+        "event": "Машина забронирована",
+        "eventType": 1,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 5с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 5с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 5,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44412354116998,
+            "lon": 35.002227411410665
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      },
+      {
+        "date": "2021-08-17 11:35:19",
+        "event": "Начат осмотр",
+        "eventType": 5,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 20с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 20с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 20,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44413099894636,
+            "lon": 35.00221425499529
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      },
+      {
+        "date": "2021-08-17 11:35:39",
+        "event": "Начало использования",
+        "eventType": 3,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 34с. (5.00 км.)",
+        "price": "1",
+        "cost": 25.57,
+        "comment": "",
+        "run": "5.00",
+        "overRun": "5.00",
+        "overRunCost": 5,
+        "totalOverRunCost": "25.00",
+        "totalTimeCost": "0.57",
+        "durationTrip": "0ч. 0м. 34с.",
+        "strOverRun": "5*5",
+        "strTimeRun": {
+          "time": 34,
+          "price": 1
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.444129644139025,
+            "lon": 35.0022209217894
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.004675
+          }
+        }
+      },
+      {
+        "date": "2021-08-17 11:36:13",
+        "event": "Заказ завершен",
+        "eventType": 4,
+        "rate": "Хвилина E + 5 грн/км",
+        "duration": "0ч. 0м. 0с.",
+        "price": "0",
+        "cost": 0,
+        "comment": "",
+        "run": "0.00",
+        "overRun": "0.00",
+        "overRunCost": 0,
+        "totalOverRunCost": "0.00",
+        "totalTimeCost": "0.00",
+        "durationTrip": "0ч. 0м. 0с.",
+        "strOverRun": "",
+        "strTimeRun": {
+          "time": 0,
+          "price": 0
+        },
+        "tank": {
+          "fuel": 67,
+          "gas": 0
+        },
+        "prolong": false,
+        "isradar": false,
+        "tankType": 0,
+        "coordinates": {
+          "user": {
+            "lat": 48.44409835304081,
+            "lon": 35.00234531528871
+          },
+          "car": {
+            "lat": 48.44392,
+            "lon": 35.017675
+          }
+        }
+      }
+    ],
+    "paymentsOther": [],
+    "photo": [
+      {
+        "name": "/images/Rent/2021/08/17/11629189329359.jpg",
+        "time": "2021-08-17T08:35:29.371Z",
+        "type": "Начало аренды"
+      }
+    ],
+    "status": true,
+    "coordinats": []
+  }
+]
