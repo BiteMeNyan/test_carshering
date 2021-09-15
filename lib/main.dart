@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:get/get.dart';
 import 'package:test_carshering/screens/main_screen.dart';
-import 'package:test_carshering/screens/trip_details_screen.dart';
 
 void main() {
   runApp(
@@ -18,7 +17,6 @@ class MyApp extends StatelessWidget {
       initialRoute: 'main_page',
       routes: {
         'main_page': (context) => MainScreen(),
-        'trip_details_page': (context) => TripDetails(),
       },
       localizationsDelegates: [GlobalMaterialLocalizations.delegate],
       supportedLocales: [

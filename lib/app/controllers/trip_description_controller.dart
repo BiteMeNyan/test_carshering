@@ -33,7 +33,6 @@ class TripDescriptionController extends GetxController with StateMixin {
       longs.forEach((element) {
         newDate = newDate + " $element";
       });
-      print(newDate);
       return newDate;
     }
   }

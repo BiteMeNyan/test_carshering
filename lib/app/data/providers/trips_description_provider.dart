@@ -16,12 +16,12 @@ class TripsDescriptionProvider extends GetConnect {
     httpClient.baseUrl = 'YOUR-API-URL';
   }
 
-  Future<TripsDescription> getTripsDescription(int id) async {
+  Future<TripsDescription?> getTripsDescription(int id) async {
     final response = await get('tripsdescription/$id');
     return response.body;
   }
 
-  Future<List<dynamic>> readJson() async {
+  Future<List<dynamic>?> readJson() async {
     final String response =
         await rootBundle.loadString('assets/models/tripsDescription.json');
     final data = await json.decode(response);

@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:test_carshering/widgets/app_bars/main_app_bar.dart';
 
 class FilteredTripsScreen extends StatelessWidget {
-  final Widget filteredTrips;
+  final Widget? filteredTrips;
 
   FilteredTripsScreen({
-    @required this.filteredTrips,
+    required this.filteredTrips,
   });
 
   @override

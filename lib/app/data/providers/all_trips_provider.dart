@@ -10,10 +10,10 @@ import 'package:test_carshering/widgets/trip_block.dart';
 import '../models/all_trips_model.dart';
 
 class AllTripsProvider extends GetConnect {
-  List<dynamic> allTrips = [];
+  List<dynamic>? allTrips = [];
   List<dynamic> allFilteredTrips = [];
-  Widget filteredWidgetTrips;
-  String filterDate;
+  Widget? filteredWidgetTrips;
+  String? filterDate;
 
   @override
   void onInit() {
@@ -25,12 +25,12 @@ class AllTripsProvider extends GetConnect {
     httpClient.baseUrl = 'YOUR-API-URL';
   }
 
-  Future<AllTrips> getAllTrips(int id) async {
+  Future<AllTrips?> getAllTrips(int id) async {
     final response = await get('alltrips/$id');
     return response.body;
   }
 
-  Future<List<dynamic>> readJson() async {
+  Future<List<dynamic>?> readJson() async {
     final String response =
         await rootBundle.loadString('assets/models/allTrips.json');
     final data = await json.decode(response);
@@ -39,8 +39,7 @@ class AllTripsProvider extends GetConnect {
   }
 
   void createFilteredTrips() {
-    print(allTrips);
-    allTrips.forEach((element) {
+    allTrips!.forEach((element) {
       if (element['datestart'].substring(0, element['datestart'].length - 6) ==
           filterDate) {
         allFilteredTrips.add(element);

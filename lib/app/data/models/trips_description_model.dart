@@ -1,9 +1,9 @@
 class TripsDescription {
-  Order order;
-  List<Event> event;
-  List<StrTimeRun> paymentsOther;
-  bool status;
-  List<Coordinates> coordinats;
+  Order? order;
+  List<Event>? event;
+  List<StrTimeRun>? paymentsOther;
+  bool? status;
+  List<Coordinates>? coordinats;
 
   TripsDescription(
       {this.order,
@@ -17,20 +17,20 @@ class TripsDescription {
     if (json['event'] != null) {
       event = <Event>[];
       json['event'].forEach((v) {
-        event.add(Event.fromJson(v));
+        event!.add(Event.fromJson(v));
       });
     }
     if (json['paymentsOther'] != null) {
       paymentsOther = <StrTimeRun>[];
       json['paymentsOther'].forEach((v) {
-        paymentsOther.add(StrTimeRun.fromJson(v));
+        paymentsOther!.add(StrTimeRun.fromJson(v));
       });
     }
     status = json['status'];
     if (json['coordinats'] != null) {
       coordinats = <Coordinates>[];
       json['coordinats'].forEach((v) {
-        coordinats.add(Coordinates.fromJson(v));
+        coordinats!.add(Coordinates.fromJson(v));
       });
     }
   }
@@ -38,57 +38,57 @@ class TripsDescription {
   Map<String, dynamic> toJson() {
     final data = <String, dynamic>{};
     if (order != null) {
-      data['order'] = order.toJson();
+      data['order'] = order!.toJson();
     }
     if (event != null) {
-      data['event'] = event.map((v) => v.toJson()).toList();
+      data['event'] = event!.map((v) => v.toJson()).toList();
     }
     if (paymentsOther != null) {
-      data['paymentsOther'] = paymentsOther.map((v) => v.toJson()).toList();
+      data['paymentsOther'] = paymentsOther!.map((v) => v.toJson()).toList();
     }
     data['status'] = status;
     if (coordinats != null) {
-      data['coordinats'] = coordinats.map((v) => v.toJson()).toList();
+      data['coordinats'] = coordinats!.map((v) => v.toJson()).toList();
     }
     return data;
   }
 }
 
 class Order {
-  String orderId;
-  String dateOrder;
-  String creatorId;
-  String creatorName;
-  String creatorPhone;
-  String creatorNameAbbr;
-  String carId;
-  String carName;
-  String costOrder;
-  String carDisplayName;
-  String carNumber;
-  String carPcture;
-  Book book;
-  int driveMinutes;
-  int parking;
-  String mileage;
-  String overunMileage;
-  int transfer;
-  int timeOrder;
-  int heating;
-  int fueling;
-  int preview;
-  int selfie;
-  bool acceptancecarbodyisdamaged;
-  bool acceptancetireisflat;
-  bool acceptancebrokenwindow;
-  bool acceptancecarisdirty;
-  String acceptancecomment;
-  String costFromCard;
-  String costFromBonuses;
-  String insurance;
-  bool insuranceInRate;
-  String paidCompletionZone;
-  String rateId;
+  String? orderId;
+  String? dateOrder;
+  String? creatorId;
+  String? creatorName;
+  String? creatorPhone;
+  String? creatorNameAbbr;
+  String? carId;
+  String? carName;
+  String? costOrder;
+  String? carDisplayName;
+  String? carNumber;
+  String? carPcture;
+  Book? book;
+  int? driveMinutes;
+  int? parking;
+  String? mileage;
+  String? overunMileage;
+  int? transfer;
+  int? timeOrder;
+  int? heating;
+  int? fueling;
+  int? preview;
+  int? selfie;
+  bool? acceptancecarbodyisdamaged;
+  bool? acceptancetireisflat;
+  bool? acceptancebrokenwindow;
+  bool? acceptancecarisdirty;
+  String? acceptancecomment;
+  String? costFromCard;
+  String? costFromBonuses;
+  String? insurance;
+  bool? insuranceInRate;
+  String? paidCompletionZone;
+  String? rateId;
 
   Order(
       {this.orderId,
@@ -178,7 +178,7 @@ class Order {
     data['carNumber'] = carNumber;
     data['carPcture'] = carPcture;
     if (book != null) {
-      data['book'] = book.toJson();
+      data['book'] = book!.toJson();
     }
     data['driveMinutes'] = driveMinutes;
     data['parking'] = parking;
@@ -206,8 +206,8 @@ class Order {
 }
 
 class Book {
-  int free;
-  int pay;
+  int? free;
+  int? pay;
 
   Book({this.free, this.pay});
 
@@ -225,27 +225,27 @@ class Book {
 }
 
 class Event {
-  String date;
-  String event;
-  int eventType;
-  String rate;
-  String duration;
-  String price;
-  double cost;
-  String comment;
-  String run;
-  String overRun;
-  int overRunCost;
-  String totalOverRunCost;
-  String totalTimeCost;
-  String durationTrip;
-  String strOverRun;
-  StrTimeRun strTimeRun;
-  Tank tank;
-  bool prolong;
-  bool isradar;
-  int tankType;
-  Coordinates coordinates;
+  String? date;
+  String? event;
+  int? eventType;
+  String? rate;
+  String? duration;
+  String? price;
+  double? cost;
+  String? comment;
+  String? run;
+  String? overRun;
+  int? overRunCost;
+  String? totalOverRunCost;
+  String? totalTimeCost;
+  String? durationTrip;
+  String? strOverRun;
+  StrTimeRun? strTimeRun;
+  Tank? tank;
+  bool? prolong;
+  bool? isradar;
+  int? tankType;
+  Coordinates? coordinates;
 
   Event(
       {this.date,
@@ -316,24 +316,24 @@ class Event {
     data['durationTrip'] = durationTrip;
     data['strOverRun'] = strOverRun;
     if (strTimeRun != null) {
-      data['strTimeRun'] = strTimeRun.toJson();
+      data['strTimeRun'] = strTimeRun!.toJson();
     }
     if (tank != null) {
-      data['tank'] = tank.toJson();
+      data['tank'] = tank!.toJson();
     }
     data['prolong'] = prolong;
     data['isradar'] = isradar;
     data['tankType'] = tankType;
     if (coordinates != null) {
-      data['coordinates'] = coordinates.toJson();
+      data['coordinates'] = coordinates!.toJson();
     }
     return data;
   }
 }
 
 class StrTimeRun {
-  int time;
-  int price;
+  int? time;
+  int? price;
 
   StrTimeRun({this.time, this.price});
 
@@ -351,8 +351,8 @@ class StrTimeRun {
 }
 
 class Tank {
-  int fuel;
-  int gas;
+  int? fuel;
+  int? gas;
 
   Tank({this.fuel, this.gas});
 
@@ -370,8 +370,8 @@ class Tank {
 }
 
 class Coordinates {
-  User user;
-  User car;
+  User? user;
+  User? car;
 
   Coordinates({this.user, this.car});
 
@@ -383,18 +383,18 @@ class Coordinates {
   Map<String, dynamic> toJson() {
     final data = <String, dynamic>{};
     if (user != null) {
-      data['user'] = user.toJson();
+      data['user'] = user!.toJson();
     }
     if (car != null) {
-      data['car'] = car.toJson();
+      data['car'] = car!.toJson();
     }
     return data;
   }
 }
 
 class User {
-  double lat;
-  double lon;
+  double? lat;
+  double? lon;
 
   User({this.lat, this.lon});
 

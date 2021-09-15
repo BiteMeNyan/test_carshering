@@ -8,22 +8,22 @@ import 'package:test_carshering/screens/trip_details_screen.dart';
 class TripBlock extends GetView<TripDescriptionController> {
   final String dateStart;
   final String dateEnd;
-  final int fullTime;
-  final String auto;
-  final String autoNumber;
-  final String mileage;
-  final double cost;
+  final int? fullTime;
+  final String? auto;
+  final String? autoNumber;
+  final String? mileage;
+  final double? cost;
   final int itemIndex;
 
   TripBlock({
-    @required this.auto,
-    @required this.autoNumber,
-    @required this.cost,
-    @required this.dateEnd,
-    @required this.dateStart,
-    @required this.fullTime,
-    @required this.mileage,
-    @required this.itemIndex,
+    required this.auto,
+    required this.autoNumber,
+    required this.cost,
+    required this.dateEnd,
+    required this.dateStart,
+    required this.fullTime,
+    required this.mileage,
+    required this.itemIndex,
   });
 
   @override
@@ -149,7 +149,7 @@ class TripBlock extends GetView<TripDescriptionController> {
                       ),
                       Expanded(
                         child: Text(
-                          TripsController().formatedTime(fullTime),
+                          TripsController().formatedTime(fullTime!),
                           textAlign: TextAlign.right,
                         ),
                       ),
@@ -174,7 +174,7 @@ class TripBlock extends GetView<TripDescriptionController> {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Text(
-                              auto,
+                              auto!,
                               style: TextStyle(
                                 fontWeight: FontWeight.bold,
                               ),
@@ -190,7 +190,7 @@ class TripBlock extends GetView<TripDescriptionController> {
                                 ),
                               ),
                               child: Text(
-                                autoNumber,
+                                autoNumber!,
                                 style: TextStyle(
                                   color: Colors.grey.shade700,
                                 ),

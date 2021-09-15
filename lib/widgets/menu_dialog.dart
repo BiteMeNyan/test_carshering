@@ -51,20 +51,20 @@ class MenuDialog extends StatelessWidget {
               ),
               GestureDetector(
                 onTap: () async {
-                  final DateTime picked = await showDatePicker(
+                  final DateTime? picked = await showDatePicker(
                       context: context,
                       locale: const Locale("ru", "RU"),
                       initialDate: DateTime.now(),
                       firstDate: DateTime(2018),
                       lastDate: DateTime.now(),
-                      builder: (BuildContext context, Widget child) {
+                      builder: (BuildContext context, Widget? child) {
                         return Theme(
                           data: ThemeData.light().copyWith(
                             colorScheme: ColorScheme.light(
                               primary: Colors.deepOrangeAccent,
                             ),
                           ),
-                          child: child,
+                          child: child!,
                         );
                       });
                   final String filterDate = picked

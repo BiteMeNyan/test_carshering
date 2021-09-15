@@ -8,58 +8,58 @@ import '../constants.dart';
 class TripDetails extends StatelessWidget {
   final String dateStart;
   final String dateEnd;
-  final String auto;
-  final String autoNumber;
-  final double cost;
-  final String mileage;
-  final double costOrder;
-  final String dateWait;
-  final double costWait;
-  final String dateLook;
-  final double costLook;
-  final String dateUse;
-  final double costUse;
+  final String? auto;
+  final String? autoNumber;
+  final double? cost;
+  final String? mileage;
+  final double? costOrder;
+  final String? dateWait;
+  final double? costWait;
+  final String? dateLook;
+  final double? costLook;
+  final String? dateUse;
+  final double? costUse;
   final String costFromCard;
   final String costFromBonuses;
-  final String dateOrderStart;
-  final String dateOrderEnd;
-  final String durationLook;
-  final String priceLook;
-  final String durationWait;
-  final String priceWait;
-  final String durationUse;
-  final String priceUse;
-  final int overRunCostUse;
-  final String overRunUse;
+  final String? dateOrderStart;
+  final String? dateOrderEnd;
+  final String? durationLook;
+  final String? priceLook;
+  final String? durationWait;
+  final String? priceWait;
+  final String? durationUse;
+  final String? priceUse;
+  final int? overRunCostUse;
+  final String? overRunUse;
   final double paidCompletionZone;
 
   TripDetails({
-    @required this.autoNumber,
-    @required this.auto,
-    @required this.dateEnd,
-    @required this.dateStart,
-    @required this.cost,
-    @required this.mileage,
-    @required this.dateLook,
-    @required this.dateUse,
-    @required this.dateWait,
-    @required this.costFromCard,
-    @required this.costFromBonuses,
-    @required this.costLook,
-    @required this.costOrder,
-    @required this.costUse,
-    @required this.costWait,
-    @required this.dateOrderEnd,
-    @required this.dateOrderStart,
-    @required this.durationLook,
-    @required this.priceLook,
-    @required this.durationWait,
-    @required this.priceWait,
-    @required this.durationUse,
-    @required this.priceUse,
-    @required this.overRunCostUse,
-    @required this.overRunUse,
-    @required this.paidCompletionZone,
+    required this.autoNumber,
+    required this.auto,
+    required this.dateEnd,
+    required this.dateStart,
+    required this.cost,
+    required this.mileage,
+    required this.dateLook,
+    required this.dateUse,
+    required this.dateWait,
+    required this.costFromCard,
+    required this.costFromBonuses,
+    required this.costLook,
+    required this.costOrder,
+    required this.costUse,
+    required this.costWait,
+    required this.dateOrderEnd,
+    required this.dateOrderStart,
+    required this.durationLook,
+    required this.priceLook,
+    required this.durationWait,
+    required this.priceWait,
+    required this.durationUse,
+    required this.priceUse,
+    required this.overRunCostUse,
+    required this.overRunUse,
+    required this.paidCompletionZone,
   });
 
   @override
@@ -114,7 +114,7 @@ class TripDetails extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
                             Text(
-                              auto,
+                              auto!,
                               style: TextStyle(
                                 fontWeight: FontWeight.bold,
                               ),
@@ -130,7 +130,7 @@ class TripDetails extends StatelessWidget {
                                 ),
                               ),
                               child: Text(
-                                autoNumber,
+                                autoNumber!,
                                 style: TextStyle(
                                   color: Colors.grey.shade700,
                                 ),
@@ -225,7 +225,7 @@ class TripDetails extends StatelessWidget {
                 TripInfoBlock(
                   description: 'Машина забронирована',
                   descriptionOf: dateOrderStart,
-                  totalCost: costOrder.toDouble(),
+                  totalCost: costOrder!.toDouble(),
                   totalCostDiscription: "$costOrder ₴",
                 ),
                 if (costWait != null)
@@ -234,21 +234,21 @@ class TripDetails extends StatelessWidget {
                     descriptionOf: dateWait,
                     totalCost: costWait,
                     totalCostDiscription:
-                        "${controller.parseDate(durationWait)} * $priceWait ₴",
+                        "${controller.parseDate(durationWait!)} * $priceWait ₴",
                   ),
                 TripInfoBlock(
                   description: 'Начат осмотр',
                   descriptionOf: dateLook,
-                  totalCost: costLook.toDouble(),
+                  totalCost: costLook!.toDouble(),
                   totalCostDiscription:
-                      "${controller.parseDate(durationLook)} * $priceLook ₴",
+                      "${controller.parseDate(durationLook!)} * $priceLook ₴",
                 ),
                 TripInfoBlock(
                   description: 'Начало использования',
                   descriptionOf: dateUse,
-                  totalCost: costUse.toDouble(),
+                  totalCost: costUse!.toDouble(),
                   totalCostDiscription:
-                      "${controller.parseDate(durationUse)} * $priceUse ₴ + ${double.parse(overRunUse).round()}км. * $overRunCostUse ₴",
+                      "${controller.parseDate(durationUse!)} * $priceUse ₴ + ${double.parse(overRunUse!).round()}км. * $overRunCostUse ₴",
                 ),
                 TripInfoBlock(
                   description: 'Заказ завершен',
